@@ -1,2 +1,2 @@
 # Botania-website
-A e-commerce website using HTML CSS and JS
+An e-commerce website using HTML CSS and JS
