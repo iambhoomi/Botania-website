@@ -54,7 +54,7 @@ nav ul li a: hover {
 
 /* Hero Section */
 #hero {
-    background: url('back.png') no-repeat center center/cover;
+    background: url('back.png') ;
     color: #000; /* Changed text color to black */
     text-align: center;
     padding: 100px 0;
